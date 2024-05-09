@@ -6,6 +6,7 @@ function displayPoem(response) {
     autoStart: true,
     delay: 1,
     cursor: null,
+    
   });
 }
 
